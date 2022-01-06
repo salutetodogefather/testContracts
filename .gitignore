@@ -7,3 +7,5 @@ typechain
 #Hardhat files
 cache
 artifacts
+
+README_backup.md
